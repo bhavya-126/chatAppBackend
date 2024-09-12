@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "name": "bhavya",
+            "email": "bhavya@chicmic.co.in",
+            "password": "$2b$10$7TKEYWYWLfCG6jr.G0jSreSAcAxmT7101dSU6y9aFlQCRqe/F.61S",
+            "id": 1
+        },
+        {
+            "name": "karan",
+            "email": "karan@chicmic.co.in",
+            "password": "$2b$10$6tijVceHcHrVnkI.8LUzbOV8b1woEdegMY/qgKFHhUtSbF8tIKwAa",
+            "id": 2
+        },
+        {
+            "name": "bhavya",
+            "email": "bhavya123@chicmic.co.in",
+            "password": "$2b$10$7.QBQGIcMl85vfacvB0BTumzCPE9TRgGE.Y.nsQGFDe/I6/r.bsmS",
+            "id": 3
+        },
+        {
+            "name": "Bhavya",
+            "email": "bhavya@gmail.com",
+            "password": "$2b$10$1asYcE3gW2fmm3Kkry76bOSTDG6XlXau1OIHUQKNPgHl0mv2lC2QS",
+            "id": 5
+        },
+        {
+            "name": "Manish",
+            "email": "manish@gmail.com",
+            "password": "$2b$10$xYembeUWsCc7/qOUd.J5Hea/0SOC4vLNGIksaug4Q3Wk65jl32bay",
+            "id": 6
+        }
+    ]
+}
